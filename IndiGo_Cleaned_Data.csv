@@ -1,0 +1,268 @@
+date,airline,source,destination,scheduled_flights,cancelled_flights,flown_flights,avg_fare_inr,cancellation_rate,route,period,crisis_severity,fare
+2025-12-01,IndiGo,BOM,BLR,21,1,20,4070.0,0.048,BOM-BLR,normal,Low,Medium
+2025-12-01,IndiGo,DEL,GOI,20,1,19,3864.0,0.05,DEL-GOI,normal,Low,Medium
+2025-12-02,IndiGo,DEL,BOM,24,1,23,4122.0,0.042,DEL-BOM,crisis,Low,Medium
+2025-12-02,IndiGo,DEL,BLR,19,2,17,3508.0,0.105,DEL-BLR,crisis,Moderate,Medium
+2025-12-02,IndiGo,BOM,BLR,20,1,19,3983.0,0.05,BOM-BLR,crisis,Low,Medium
+2025-12-02,IndiGo,DEL,CCU,20,1,19,4913.0,0.05,DEL-CCU,crisis,Low,Medium
+2025-12-02,IndiGo,BOM,HYD,20,1,19,5525.0,0.05,BOM-HYD,crisis,Low,Medium
+2025-12-02,IndiGo,DEL,HYD,17,3,14,3907.0,0.176,DEL-HYD,crisis,High,Medium
+2025-12-02,IndiGo,BLR,MAA,17,1,16,4207.0,0.059,BLR-MAA,crisis,Low,Medium
+2025-12-02,IndiGo,DEL,MAA,16,1,15,6073.0,0.062,DEL-MAA,crisis,Low,Medium
+2025-12-02,IndiGo,BOM,PNQ,19,2,17,4233.0,0.105,BOM-PNQ,crisis,Moderate,Medium
+2025-12-02,IndiGo,BLR,CCU,18,1,17,4662.0,0.056,BLR-CCU,crisis,Low,Medium
+2025-12-02,IndiGo,BOM,AMD,12,3,9,7406.0,0.25,BOM-AMD,crisis,High,High
+2025-12-03,IndiGo,DEL,BOM,15,3,12,4818.0,0.2,DEL-BOM,crisis,High,Medium
+2025-12-03,IndiGo,DEL,BLR,21,3,18,4586.0,0.143,DEL-BLR,crisis,High,Medium
+2025-12-03,IndiGo,BOM,BLR,17,1,16,2758.0,0.059,BOM-BLR,crisis,Low,Low fare
+2025-12-03,IndiGo,DEL,CCU,14,5,9,5533.0,0.357,DEL-CCU,crisis,High,Medium
+2025-12-03,IndiGo,BOM,HYD,15,5,10,4085.0,0.333,BOM-HYD,crisis,High,Medium
+2025-12-03,IndiGo,DEL,HYD,18,2,16,4871.0,0.111,DEL-HYD,crisis,Moderate,Medium
+2025-12-03,IndiGo,BLR,MAA,20,1,19,4517.0,0.05,BLR-MAA,crisis,Low,Medium
+2025-12-03,IndiGo,DEL,MAA,26,4,22,4177.0,0.154,DEL-MAA,crisis,High,Medium
+2025-12-03,IndiGo,BOM,PNQ,18,5,13,3734.0,0.278,BOM-PNQ,crisis,High,Medium
+2025-12-03,IndiGo,DEL,GOI,13,2,11,3907.0,0.154,DEL-GOI,crisis,Moderate,Medium
+2025-12-03,IndiGo,BLR,CCU,27,3,24,4534.0,0.111,BLR-CCU,crisis,High,Medium
+2025-12-03,IndiGo,BOM,AMD,11,1,10,6106.0,0.091,BOM-AMD,crisis,Low,Medium
+2025-12-04,IndiGo,DEL,BOM,13,6,7,5342.0,0.462,DEL-BOM,crisis,High,Medium
+2025-12-04,IndiGo,DEL,BLR,18,2,16,4383.0,0.111,DEL-BLR,crisis,Moderate,Medium
+2025-12-04,IndiGo,BOM,BLR,16,2,14,4760.0,0.125,BOM-BLR,crisis,Moderate,Medium
+2025-12-04,IndiGo,DEL,CCU,17,6,11,4161.0,0.353,DEL-CCU,crisis,High,Medium
+2025-12-04,IndiGo,BOM,HYD,20,5,15,2703.0,0.25,BOM-HYD,crisis,High,Low fare
+2025-12-04,IndiGo,DEL,HYD,18,4,14,2162.0,0.222,DEL-HYD,crisis,High,Low fare
+2025-12-04,IndiGo,BLR,MAA,24,9,15,2534.0,0.375,BLR-MAA,crisis,High,Low fare
+2025-12-04,IndiGo,DEL,MAA,17,4,13,3673.0,0.235,DEL-MAA,crisis,High,Medium
+2025-12-04,IndiGo,BOM,PNQ,13,4,9,5096.0,0.308,BOM-PNQ,crisis,High,Medium
+2025-12-04,IndiGo,DEL,GOI,23,6,17,2622.0,0.261,DEL-GOI,crisis,High,Low fare
+2025-12-04,IndiGo,BLR,CCU,15,1,14,4245.0,0.067,BLR-CCU,crisis,Low,Medium
+2025-12-04,IndiGo,BOM,AMD,18,6,12,5239.0,0.333,BOM-AMD,crisis,High,Medium
+2025-12-05,IndiGo,DEL,BOM,20,8,12,6360.0,0.4,DEL-BOM,crisis,High,Medium
+2025-12-05,IndiGo,DEL,BLR,14,3,11,3810.0,0.214,DEL-BLR,crisis,High,Medium
+2025-12-05,IndiGo,BOM,BLR,24,12,12,5617.0,0.5,BOM-BLR,crisis,High,Medium
+2025-12-05,IndiGo,DEL,CCU,12,3,9,3951.0,0.25,DEL-CCU,crisis,High,Medium
+2025-12-05,IndiGo,BOM,HYD,16,4,12,4207.0,0.25,BOM-HYD,crisis,High,Medium
+2025-12-05,IndiGo,DEL,HYD,21,10,11,3270.0,0.476,DEL-HYD,crisis,High,Medium
+2025-12-05,IndiGo,BLR,MAA,22,9,13,3670.0,0.409,BLR-MAA,crisis,High,Medium
+2025-12-05,IndiGo,DEL,MAA,21,5,16,4494.0,0.238,DEL-MAA,crisis,High,Medium
+2025-12-05,IndiGo,BOM,PNQ,19,7,12,3148.0,0.368,BOM-PNQ,crisis,High,Medium
+2025-12-05,IndiGo,DEL,GOI,18,6,12,4765.0,0.333,DEL-GOI,crisis,High,Medium
+2025-12-05,IndiGo,BLR,CCU,12,5,7,3427.0,0.417,BLR-CCU,crisis,High,Medium
+2025-12-05,IndiGo,BOM,AMD,23,6,17,5322.0,0.261,BOM-AMD,crisis,High,Medium
+2025-12-06,IndiGo,DEL,BOM,23,12,11,4684.0,0.522,DEL-BOM,crisis,High,Medium
+2025-12-06,IndiGo,DEL,BLR,18,4,14,4463.0,0.222,DEL-BLR,crisis,High,Medium
+2025-12-06,IndiGo,BOM,BLR,18,7,11,4256.0,0.389,BOM-BLR,crisis,High,Medium
+2025-12-06,IndiGo,DEL,CCU,17,4,13,4012.0,0.235,DEL-CCU,crisis,High,Medium
+2025-12-06,IndiGo,BOM,HYD,26,11,15,3765.0,0.423,BOM-HYD,crisis,High,Medium
+2025-12-06,IndiGo,DEL,HYD,20,8,12,4072.0,0.4,DEL-HYD,crisis,High,Medium
+2025-12-06,IndiGo,BLR,MAA,20,4,16,3421.0,0.2,BLR-MAA,crisis,High,Medium
+2025-12-06,IndiGo,DEL,MAA,14,5,9,3623.0,0.357,DEL-MAA,crisis,High,Medium
+2025-12-06,IndiGo,BOM,PNQ,17,5,12,4608.0,0.294,BOM-PNQ,crisis,High,Medium
+2025-12-06,IndiGo,DEL,GOI,14,3,11,4207.0,0.214,DEL-GOI,crisis,High,Medium
+2025-12-06,IndiGo,BLR,CCU,25,7,18,4083.0,0.28,BLR-CCU,crisis,High,Medium
+2025-12-06,IndiGo,BOM,AMD,19,3,16,4531.0,0.158,BOM-AMD,crisis,High,Medium
+2025-12-07,IndiGo,DEL,BOM,16,4,12,3677.0,0.25,DEL-BOM,crisis,High,Medium
+2025-12-07,IndiGo,DEL,BLR,21,7,14,5513.0,0.333,DEL-BLR,crisis,High,Medium
+2025-12-07,IndiGo,BOM,BLR,18,2,16,5122.0,0.111,BOM-BLR,crisis,Moderate,Medium
+2025-12-07,IndiGo,DEL,CCU,25,8,17,3882.0,0.32,DEL-CCU,crisis,High,Medium
+2025-12-07,IndiGo,BOM,HYD,16,5,11,3921.0,0.312,BOM-HYD,crisis,High,Medium
+2025-12-07,IndiGo,DEL,HYD,14,3,11,5189.0,0.214,DEL-HYD,crisis,High,Medium
+2025-12-07,IndiGo,BLR,MAA,18,9,9,4581.0,0.5,BLR-MAA,crisis,High,Medium
+2025-12-07,IndiGo,DEL,MAA,20,2,18,3370.0,0.1,DEL-MAA,crisis,Moderate,Medium
+2025-12-07,IndiGo,BOM,PNQ,13,8,5,3527.0,0.615,BOM-PNQ,crisis,High,Medium
+2025-12-07,IndiGo,DEL,GOI,15,4,11,3667.0,0.267,DEL-GOI,crisis,High,Medium
+2025-12-07,IndiGo,BLR,CCU,21,9,12,4566.0,0.429,BLR-CCU,crisis,High,Medium
+2025-12-07,IndiGo,BOM,AMD,18,3,15,3821.0,0.167,BOM-AMD,crisis,High,Medium
+2025-12-08,IndiGo,DEL,BOM,10,3,7,5106.0,0.3,DEL-BOM,crisis,High,Medium
+2025-12-08,IndiGo,DEL,BLR,19,5,14,5357.0,0.263,DEL-BLR,crisis,High,Medium
+2025-12-08,IndiGo,BOM,BLR,17,8,9,4225.0,0.471,BOM-BLR,crisis,High,Medium
+2025-12-08,IndiGo,DEL,CCU,15,6,9,4610.0,0.4,DEL-CCU,crisis,High,Medium
+2025-12-08,IndiGo,BOM,HYD,20,1,19,4057.0,0.05,BOM-HYD,crisis,Low,Medium
+2025-12-08,IndiGo,DEL,HYD,12,7,5,3228.0,0.583,DEL-HYD,crisis,High,Medium
+2025-12-08,IndiGo,BLR,MAA,19,6,13,4644.0,0.316,BLR-MAA,crisis,High,Medium
+2025-12-08,IndiGo,DEL,MAA,23,6,17,3944.0,0.261,DEL-MAA,crisis,High,Medium
+2025-12-08,IndiGo,BOM,PNQ,19,7,12,3585.0,0.368,BOM-PNQ,crisis,High,Medium
+2025-12-08,IndiGo,DEL,GOI,21,10,11,5816.0,0.476,DEL-GOI,crisis,High,Medium
+2025-12-08,IndiGo,BLR,CCU,16,5,11,5358.0,0.312,BLR-CCU,crisis,High,Medium
+2025-12-08,IndiGo,BOM,AMD,18,8,10,4420.0,0.444,BOM-AMD,crisis,High,Medium
+2025-12-09,IndiGo,DEL,BOM,18,9,9,4236.0,0.5,DEL-BOM,crisis,High,Medium
+2025-12-09,IndiGo,DEL,BLR,27,7,20,3703.0,0.259,DEL-BLR,crisis,High,Medium
+2025-12-09,IndiGo,BOM,BLR,23,5,18,5447.0,0.217,BOM-BLR,crisis,High,Medium
+2025-12-09,IndiGo,DEL,CCU,11,3,8,2857.0,0.273,DEL-CCU,crisis,High,Low fare
+2025-12-09,IndiGo,BOM,HYD,18,2,16,4441.0,0.111,BOM-HYD,crisis,Moderate,Medium
+2025-12-09,IndiGo,DEL,HYD,17,2,15,5030.0,0.118,DEL-HYD,crisis,Moderate,Medium
+2025-12-09,IndiGo,BLR,MAA,16,5,11,6234.0,0.312,BLR-MAA,crisis,High,Medium
+2025-12-09,IndiGo,DEL,MAA,22,4,18,5414.0,0.182,DEL-MAA,crisis,High,Medium
+2025-12-09,IndiGo,BOM,PNQ,28,4,24,3742.0,0.143,BOM-PNQ,crisis,High,Medium
+2025-12-09,IndiGo,DEL,GOI,14,5,9,5266.0,0.357,DEL-GOI,crisis,High,Medium
+2025-12-09,IndiGo,BLR,CCU,17,4,13,4062.0,0.235,BLR-CCU,crisis,High,Medium
+2025-12-09,IndiGo,BOM,AMD,16,2,14,4017.0,0.125,BOM-AMD,crisis,Moderate,Medium
+2025-12-10,IndiGo,DEL,BOM,15,2,13,4851.0,0.133,DEL-BOM,crisis,Moderate,Medium
+2025-12-10,IndiGo,DEL,BLR,22,3,19,3803.0,0.136,DEL-BLR,crisis,High,Medium
+2025-12-10,IndiGo,BOM,BLR,16,7,9,3239.0,0.438,BOM-BLR,crisis,High,Medium
+2025-12-10,IndiGo,DEL,CCU,10,3,7,4835.0,0.3,DEL-CCU,crisis,High,Medium
+2025-12-10,IndiGo,BOM,HYD,18,2,16,4900.0,0.111,BOM-HYD,crisis,Moderate,Medium
+2025-12-10,IndiGo,DEL,HYD,17,4,13,4087.0,0.235,DEL-HYD,crisis,High,Medium
+2025-12-10,IndiGo,BLR,MAA,19,4,15,3665.0,0.211,BLR-MAA,crisis,High,Medium
+2025-12-10,IndiGo,DEL,MAA,21,4,17,4499.0,0.19,DEL-MAA,crisis,High,Medium
+2025-12-10,IndiGo,BOM,PNQ,18,4,14,4323.0,0.222,BOM-PNQ,crisis,High,Medium
+2025-12-10,IndiGo,DEL,GOI,19,4,15,5190.0,0.211,DEL-GOI,crisis,High,Medium
+2025-12-10,IndiGo,BLR,CCU,14,5,9,3911.0,0.357,BLR-CCU,crisis,High,Medium
+2025-12-10,IndiGo,BOM,AMD,12,4,8,2017.0,0.333,BOM-AMD,crisis,High,Low fare
+2025-12-11,IndiGo,DEL,BOM,22,3,19,4986.0,0.136,DEL-BOM,crisis,High,Medium
+2025-12-11,IndiGo,DEL,BLR,17,3,14,4666.0,0.176,DEL-BLR,crisis,High,Medium
+2025-12-11,IndiGo,BOM,BLR,16,1,15,4220.0,0.062,BOM-BLR,crisis,Low,Medium
+2025-12-11,IndiGo,DEL,CCU,16,1,15,4061.0,0.062,DEL-CCU,crisis,Low,Medium
+2025-12-11,IndiGo,BOM,HYD,23,6,17,4329.0,0.261,BOM-HYD,crisis,High,Medium
+2025-12-11,IndiGo,DEL,HYD,19,5,14,3110.0,0.263,DEL-HYD,crisis,High,Medium
+2025-12-11,IndiGo,BLR,MAA,20,5,15,4351.0,0.25,BLR-MAA,crisis,High,Medium
+2025-12-11,IndiGo,DEL,MAA,30,5,25,5430.0,0.167,DEL-MAA,crisis,High,Medium
+2025-12-11,IndiGo,BOM,PNQ,18,5,13,3788.0,0.278,BOM-PNQ,crisis,High,Medium
+2025-12-11,IndiGo,DEL,GOI,17,3,14,5786.0,0.176,DEL-GOI,crisis,High,Medium
+2025-12-11,IndiGo,BLR,CCU,13,3,10,3652.0,0.231,BLR-CCU,crisis,High,Medium
+2025-12-11,IndiGo,BOM,AMD,23,5,18,5745.0,0.217,BOM-AMD,crisis,High,Medium
+2025-12-12,IndiGo,DEL,BOM,25,4,21,4318.0,0.16,DEL-BOM,crisis,High,Medium
+2025-12-12,IndiGo,DEL,BLR,22,2,20,3203.0,0.091,DEL-BLR,crisis,Moderate,Medium
+2025-12-12,IndiGo,DEL,CCU,17,1,16,4632.0,0.059,DEL-CCU,crisis,Low,Medium
+2025-12-12,IndiGo,BOM,HYD,19,1,18,4615.0,0.053,BOM-HYD,crisis,Low,Medium
+2025-12-12,IndiGo,DEL,HYD,17,1,16,2884.0,0.059,DEL-HYD,crisis,Low,Low fare
+2025-12-12,IndiGo,BOM,PNQ,15,1,14,3773.0,0.067,BOM-PNQ,crisis,Low,Medium
+2025-12-12,IndiGo,DEL,GOI,23,2,21,5147.0,0.087,DEL-GOI,crisis,Moderate,Medium
+2025-12-12,IndiGo,BOM,AMD,14,3,11,5427.0,0.214,BOM-AMD,crisis,High,Medium
+2025-12-13,IndiGo,DEL,BOM,18,1,17,4938.0,0.056,DEL-BOM,recovery,Low,Medium
+2025-12-13,IndiGo,DEL,BLR,28,1,27,4157.0,0.036,DEL-BLR,recovery,Low,Medium
+2025-12-13,IndiGo,BOM,BLR,22,2,20,4136.0,0.091,BOM-BLR,recovery,Moderate,Medium
+2025-12-13,IndiGo,DEL,HYD,19,2,17,5626.0,0.105,DEL-HYD,recovery,Moderate,Medium
+2025-12-13,IndiGo,BLR,MAA,17,2,15,4234.0,0.118,BLR-MAA,recovery,Moderate,Medium
+2025-12-13,IndiGo,BOM,PNQ,19,2,17,2127.0,0.105,BOM-PNQ,recovery,Moderate,Low fare
+2025-12-13,IndiGo,DEL,GOI,22,3,19,3884.0,0.136,DEL-GOI,recovery,High,Medium
+2025-12-13,IndiGo,BLR,CCU,17,1,16,2485.0,0.059,BLR-CCU,recovery,Low,Low fare
+2025-12-13,IndiGo,BOM,AMD,21,2,19,5356.0,0.095,BOM-AMD,recovery,Moderate,Medium
+2025-12-14,IndiGo,DEL,BOM,17,2,15,3914.0,0.118,DEL-BOM,recovery,Moderate,Medium
+2025-12-14,IndiGo,BOM,BLR,18,2,16,4955.0,0.111,BOM-BLR,recovery,Moderate,Medium
+2025-12-14,IndiGo,DEL,CCU,18,1,17,3855.0,0.056,DEL-CCU,recovery,Low,Medium
+2025-12-14,IndiGo,DEL,HYD,19,1,18,2711.0,0.053,DEL-HYD,recovery,Low,Low fare
+2025-12-14,IndiGo,BLR,CCU,17,2,15,5031.0,0.118,BLR-CCU,recovery,Moderate,Medium
+2025-12-15,IndiGo,DEL,BLR,16,2,14,2776.0,0.125,DEL-BLR,recovery,Moderate,Low fare
+2025-12-15,IndiGo,BOM,BLR,15,1,14,2090.0,0.067,BOM-BLR,recovery,Low,Low fare
+2025-12-15,IndiGo,DEL,MAA,19,2,17,5528.0,0.105,DEL-MAA,recovery,Moderate,Medium
+2025-12-15,IndiGo,BOM,PNQ,20,3,17,3490.0,0.15,BOM-PNQ,recovery,High,Medium
+2025-12-16,IndiGo,DEL,BLR,22,1,21,5592.0,0.045,DEL-BLR,recovery,Low,Medium
+2025-12-16,IndiGo,BOM,BLR,22,1,21,3759.0,0.045,BOM-BLR,recovery,Low,Medium
+2025-12-16,IndiGo,DEL,HYD,24,1,23,3510.0,0.042,DEL-HYD,recovery,Low,Medium
+2025-12-16,IndiGo,BLR,MAA,17,1,16,4001.0,0.059,BLR-MAA,recovery,Low,Medium
+2025-12-16,IndiGo,DEL,MAA,17,2,15,4713.0,0.118,DEL-MAA,recovery,Moderate,Medium
+2025-12-16,IndiGo,BOM,PNQ,15,1,14,4581.0,0.067,BOM-PNQ,recovery,Low,Medium
+2025-12-16,IndiGo,DEL,GOI,16,1,15,4496.0,0.062,DEL-GOI,recovery,Low,Medium
+2025-12-16,IndiGo,BLR,CCU,13,1,12,2942.0,0.077,BLR-CCU,recovery,Low,Low fare
+2025-12-16,IndiGo,BOM,AMD,15,1,14,4006.0,0.067,BOM-AMD,recovery,Low,Medium
+2025-12-17,IndiGo,DEL,BOM,21,2,19,4812.0,0.095,DEL-BOM,recovery,Moderate,Medium
+2025-12-17,IndiGo,DEL,BLR,18,3,15,5042.0,0.167,DEL-BLR,recovery,High,Medium
+2025-12-17,IndiGo,BOM,HYD,19,1,18,3853.0,0.053,BOM-HYD,recovery,Low,Medium
+2025-12-17,IndiGo,BOM,PNQ,20,2,18,4133.0,0.1,BOM-PNQ,recovery,Moderate,Medium
+2025-12-17,IndiGo,BLR,CCU,19,1,18,5491.0,0.053,BLR-CCU,recovery,Low,Medium
+2025-12-17,IndiGo,BOM,AMD,18,1,17,2967.0,0.056,BOM-AMD,recovery,Low,Low fare
+2025-12-18,IndiGo,DEL,BOM,21,1,20,3858.0,0.048,DEL-BOM,recovery,Low,Medium
+2025-12-18,IndiGo,BOM,BLR,18,2,16,5073.0,0.111,BOM-BLR,recovery,Moderate,Medium
+2025-12-18,IndiGo,DEL,CCU,17,2,15,6153.0,0.118,DEL-CCU,recovery,Moderate,Medium
+2025-12-18,IndiGo,BOM,HYD,19,1,18,2993.0,0.053,BOM-HYD,recovery,Low,Low fare
+2025-12-18,IndiGo,DEL,HYD,16,2,14,4363.0,0.125,DEL-HYD,recovery,Moderate,Medium
+2025-12-18,IndiGo,BLR,MAA,12,1,11,4308.0,0.083,BLR-MAA,recovery,Low,Medium
+2025-12-18,IndiGo,BOM,PNQ,20,2,18,4701.0,0.1,BOM-PNQ,recovery,Moderate,Medium
+2025-12-18,IndiGo,BLR,CCU,19,1,18,4372.0,0.053,BLR-CCU,recovery,Low,Medium
+2025-12-18,IndiGo,BOM,AMD,25,2,23,4154.0,0.08,BOM-AMD,recovery,Moderate,Medium
+2025-12-19,IndiGo,DEL,BOM,15,1,14,3939.0,0.067,DEL-BOM,recovery,Low,Medium
+2025-12-19,IndiGo,DEL,BLR,25,1,24,5583.0,0.04,DEL-BLR,recovery,Low,Medium
+2025-12-19,IndiGo,BOM,BLR,20,1,19,4929.0,0.05,BOM-BLR,recovery,Low,Medium
+2025-12-19,IndiGo,DEL,CCU,22,1,21,4016.0,0.045,DEL-CCU,recovery,Low,Medium
+2025-12-19,IndiGo,DEL,HYD,12,3,9,4534.0,0.25,DEL-HYD,recovery,High,Medium
+2025-12-19,IndiGo,DEL,MAA,13,1,12,4429.0,0.077,DEL-MAA,recovery,Low,Medium
+2025-12-19,IndiGo,DEL,GOI,15,2,13,5242.0,0.133,DEL-GOI,recovery,Moderate,Medium
+2025-12-19,IndiGo,BLR,CCU,13,2,11,2798.0,0.154,BLR-CCU,recovery,Moderate,Low fare
+2025-12-19,IndiGo,BOM,AMD,16,1,15,5887.0,0.062,BOM-AMD,recovery,Low,Medium
+2025-12-20,IndiGo,DEL,BLR,21,1,20,5655.0,0.048,DEL-BLR,recovery,Low,Medium
+2025-12-20,IndiGo,DEL,CCU,14,1,13,4472.0,0.071,DEL-CCU,recovery,Low,Medium
+2025-12-20,IndiGo,BOM,HYD,20,1,19,2910.0,0.05,BOM-HYD,recovery,Low,Low fare
+2025-12-20,IndiGo,BLR,MAA,14,2,12,5420.0,0.143,BLR-MAA,recovery,Moderate,Medium
+2025-12-20,IndiGo,DEL,MAA,11,2,9,4325.0,0.182,DEL-MAA,recovery,Moderate,Medium
+2025-12-20,IndiGo,BLR,CCU,26,1,25,1802.0,0.038,BLR-CCU,recovery,Low,Low fare
+2025-12-21,IndiGo,DEL,BOM,19,2,17,3991.0,0.105,DEL-BOM,recovery,Moderate,Medium
+2025-12-21,IndiGo,DEL,HYD,17,2,15,4230.0,0.118,DEL-HYD,recovery,Moderate,Medium
+2025-12-21,IndiGo,DEL,MAA,21,1,20,3937.0,0.048,DEL-MAA,recovery,Low,Medium
+2025-12-21,IndiGo,BOM,PNQ,16,1,15,4112.0,0.062,BOM-PNQ,recovery,Low,Medium
+2025-12-21,IndiGo,DEL,GOI,18,1,17,3754.0,0.056,DEL-GOI,recovery,Low,Medium
+2025-12-21,IndiGo,BLR,CCU,19,1,18,4079.0,0.053,BLR-CCU,recovery,Low,Medium
+2025-12-21,IndiGo,BOM,AMD,20,1,19,5159.0,0.05,BOM-AMD,recovery,Low,Medium
+2025-12-22,IndiGo,DEL,BOM,21,1,20,3987.0,0.048,DEL-BOM,recovery,Low,Medium
+2025-12-22,IndiGo,BOM,BLR,16,1,15,4362.0,0.062,BOM-BLR,recovery,Low,Medium
+2025-12-22,IndiGo,BOM,HYD,18,2,16,5301.0,0.111,BOM-HYD,recovery,Moderate,Medium
+2025-12-22,IndiGo,BLR,MAA,23,2,21,5702.0,0.087,BLR-MAA,recovery,Moderate,Medium
+2025-12-22,IndiGo,BOM,PNQ,19,1,18,4838.0,0.053,BOM-PNQ,recovery,Low,Medium
+2025-12-22,IndiGo,BOM,AMD,14,1,13,5547.0,0.071,BOM-AMD,recovery,Low,Medium
+2025-12-23,IndiGo,DEL,BLR,21,2,19,5027.0,0.095,DEL-BLR,recovery,Moderate,Medium
+2025-12-23,IndiGo,BOM,BLR,14,1,13,4585.0,0.071,BOM-BLR,recovery,Low,Medium
+2025-12-23,IndiGo,DEL,CCU,15,1,14,3103.0,0.067,DEL-CCU,recovery,Low,Medium
+2025-12-23,IndiGo,DEL,HYD,15,1,14,5452.0,0.067,DEL-HYD,recovery,Low,Medium
+2025-12-23,IndiGo,BLR,MAA,22,4,18,4627.0,0.182,BLR-MAA,recovery,High,Medium
+2025-12-23,IndiGo,DEL,MAA,23,3,20,3101.0,0.13,DEL-MAA,recovery,High,Medium
+2025-12-23,IndiGo,DEL,GOI,16,2,14,3133.0,0.125,DEL-GOI,recovery,Moderate,Medium
+2025-12-23,IndiGo,BLR,CCU,19,2,17,4966.0,0.105,BLR-CCU,recovery,Moderate,Medium
+2025-12-23,IndiGo,BOM,AMD,14,1,13,2448.0,0.071,BOM-AMD,recovery,Low,Low fare
+2025-12-24,IndiGo,DEL,BOM,16,1,15,5656.0,0.062,DEL-BOM,recovery,Low,Medium
+2025-12-24,IndiGo,DEL,CCU,16,1,15,4073.0,0.062,DEL-CCU,recovery,Low,Medium
+2025-12-24,IndiGo,BOM,HYD,17,1,16,4065.0,0.059,BOM-HYD,recovery,Low,Medium
+2025-12-24,IndiGo,DEL,HYD,20,3,17,2838.0,0.15,DEL-HYD,recovery,High,Low fare
+2025-12-24,IndiGo,BLR,MAA,19,1,18,5283.0,0.053,BLR-MAA,recovery,Low,Medium
+2025-12-24,IndiGo,BOM,PNQ,19,1,18,4398.0,0.053,BOM-PNQ,recovery,Low,Medium
+2025-12-24,IndiGo,BOM,AMD,20,2,18,5229.0,0.1,BOM-AMD,recovery,Moderate,Medium
+2025-12-25,IndiGo,DEL,BOM,15,4,11,2943.0,0.267,DEL-BOM,recovery,High,Low fare
+2025-12-25,IndiGo,DEL,BLR,19,3,16,3798.0,0.158,DEL-BLR,recovery,High,Medium
+2025-12-25,IndiGo,BOM,BLR,17,2,15,5136.0,0.118,BOM-BLR,recovery,Moderate,Medium
+2025-12-25,IndiGo,BOM,HYD,12,1,11,3655.0,0.083,BOM-HYD,recovery,Low,Medium
+2025-12-25,IndiGo,BLR,MAA,19,1,18,5036.0,0.053,BLR-MAA,recovery,Low,Medium
+2025-12-25,IndiGo,DEL,MAA,24,2,22,5561.0,0.083,DEL-MAA,recovery,Moderate,Medium
+2025-12-25,IndiGo,BOM,PNQ,16,1,15,5525.0,0.062,BOM-PNQ,recovery,Low,Medium
+2025-12-25,IndiGo,DEL,GOI,19,2,17,5527.0,0.105,DEL-GOI,recovery,Moderate,Medium
+2025-12-25,IndiGo,BLR,CCU,13,1,12,2638.0,0.077,BLR-CCU,recovery,Low,Low fare
+2025-12-26,IndiGo,DEL,BOM,21,4,17,2523.0,0.19,DEL-BOM,recovery,High,Low fare
+2025-12-26,IndiGo,DEL,BLR,13,1,12,5125.0,0.077,DEL-BLR,recovery,Low,Medium
+2025-12-26,IndiGo,BOM,BLR,10,1,9,3193.0,0.1,BOM-BLR,recovery,Low,Medium
+2025-12-26,IndiGo,BOM,HYD,21,1,20,3790.0,0.048,BOM-HYD,recovery,Low,Medium
+2025-12-26,IndiGo,DEL,HYD,21,2,19,3924.0,0.095,DEL-HYD,recovery,Moderate,Medium
+2025-12-26,IndiGo,BLR,MAA,16,1,15,4574.0,0.062,BLR-MAA,recovery,Low,Medium
+2025-12-26,IndiGo,BLR,CCU,18,1,17,3912.0,0.056,BLR-CCU,recovery,Low,Medium
+2025-12-27,IndiGo,DEL,BOM,20,1,19,5464.0,0.05,DEL-BOM,recovery,Low,Medium
+2025-12-27,IndiGo,DEL,BLR,21,1,20,4503.0,0.048,DEL-BLR,recovery,Low,Medium
+2025-12-27,IndiGo,BOM,HYD,19,2,17,5612.0,0.105,BOM-HYD,recovery,Moderate,Medium
+2025-12-27,IndiGo,DEL,HYD,18,3,15,4355.0,0.167,DEL-HYD,recovery,High,Medium
+2025-12-27,IndiGo,BLR,MAA,13,2,11,3376.0,0.154,BLR-MAA,recovery,Moderate,Medium
+2025-12-27,IndiGo,DEL,MAA,16,2,14,4916.0,0.125,DEL-MAA,recovery,Moderate,Medium
+2025-12-27,IndiGo,BLR,CCU,19,2,17,5506.0,0.105,BLR-CCU,recovery,Moderate,Medium
+2025-12-27,IndiGo,BOM,AMD,20,2,18,3728.0,0.1,BOM-AMD,recovery,Moderate,Medium
+2025-12-28,IndiGo,DEL,BOM,19,4,15,2959.0,0.211,DEL-BOM,recovery,High,Low fare
+2025-12-28,IndiGo,BOM,BLR,24,2,22,4288.0,0.083,BOM-BLR,recovery,Moderate,Medium
+2025-12-28,IndiGo,DEL,CCU,17,1,16,3488.0,0.059,DEL-CCU,recovery,Low,Medium
+2025-12-28,IndiGo,BOM,HYD,12,1,11,3831.0,0.083,BOM-HYD,recovery,Low,Medium
+2025-12-28,IndiGo,DEL,MAA,20,1,19,4420.0,0.05,DEL-MAA,recovery,Low,Medium
+2025-12-28,IndiGo,DEL,GOI,15,1,14,3405.0,0.067,DEL-GOI,recovery,Low,Medium
+2025-12-29,IndiGo,DEL,BOM,24,1,23,4066.0,0.042,DEL-BOM,recovery,Low,Medium
+2025-12-29,IndiGo,DEL,BLR,18,1,17,5086.0,0.056,DEL-BLR,recovery,Low,Medium
+2025-12-29,IndiGo,BOM,BLR,17,1,16,3793.0,0.059,BOM-BLR,recovery,Low,Medium
+2025-12-29,IndiGo,BOM,HYD,20,1,19,4619.0,0.05,BOM-HYD,recovery,Low,Medium
+2025-12-29,IndiGo,BLR,MAA,18,1,17,5203.0,0.056,BLR-MAA,recovery,Low,Medium
+2025-12-29,IndiGo,BOM,PNQ,18,2,16,4806.0,0.111,BOM-PNQ,recovery,Moderate,Medium
+2025-12-29,IndiGo,DEL,GOI,23,1,22,5239.0,0.043,DEL-GOI,recovery,Low,Medium
+2025-12-29,IndiGo,BLR,CCU,15,1,14,4107.0,0.067,BLR-CCU,recovery,Low,Medium
+2025-12-30,IndiGo,DEL,BLR,19,1,18,6252.0,0.053,DEL-BLR,recovery,Low,Medium
+2025-12-30,IndiGo,BOM,BLR,21,1,20,6059.0,0.048,BOM-BLR,recovery,Low,Medium
+2025-12-30,IndiGo,BOM,HYD,17,1,16,3080.0,0.059,BOM-HYD,recovery,Low,Medium
+2025-12-30,IndiGo,DEL,MAA,21,2,19,5412.0,0.095,DEL-MAA,recovery,Moderate,Medium
+2025-12-30,IndiGo,BOM,PNQ,31,1,30,4647.0,0.032,BOM-PNQ,recovery,Low,Medium
+2025-12-30,IndiGo,DEL,GOI,14,1,13,3541.0,0.071,DEL-GOI,recovery,Low,Medium
+2025-12-30,IndiGo,BLR,CCU,16,1,15,3431.0,0.062,BLR-CCU,recovery,Low,Medium
+2025-12-31,IndiGo,DEL,BOM,18,1,17,2893.0,0.056,DEL-BOM,recovery,Low,Low fare
+2025-12-31,IndiGo,BOM,BLR,25,1,24,5295.0,0.04,BOM-BLR,recovery,Low,Medium
+2025-12-31,IndiGo,DEL,CCU,20,2,18,4301.0,0.1,DEL-CCU,recovery,Moderate,Medium
+2025-12-31,IndiGo,DEL,HYD,21,1,20,1800.0,0.048,DEL-HYD,recovery,Low,Low fare
+2025-12-31,IndiGo,BOM,PNQ,20,1,19,4518.0,0.05,BOM-PNQ,recovery,Low,Medium
+2025-12-31,IndiGo,DEL,GOI,18,1,17,6338.0,0.056,DEL-GOI,recovery,Low,Medium
+2025-12-31,IndiGo,BOM,AMD,20,2,18,1800.0,0.1,BOM-AMD,recovery,Moderate,Low fare
